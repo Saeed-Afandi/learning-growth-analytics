@@ -33,7 +33,7 @@ The strongest measured change is in mathematics, where the RIT score increased b
 
 ## Part 2 — Machine Learning Extension
 
-`src/student_performance_ml.py` uses the public **UCI Student Performance** dataset (dataset ID 320) to compare two regression approaches for predicting final academic performance:
+`src/ml_exploration.py` uses the public **UCI Student Performance** dataset (dataset ID 320) to compare two regression approaches for predicting final academic performance:
 
 - Linear Regression
 - Random Forest Regression
@@ -61,7 +61,7 @@ learning-growth-analytics/
 │   └── growth_summary.csv
 ├── src/
 │   ├── progress_analysis.py
-│   └── student_performance_ml.py
+│   └── ml_exploration.py
 ├── .gitignore
 ├── README.md
 └── requirements.txt
@@ -74,7 +74,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 python3 src/progress_analysis.py
-python3 src/student_performance_ml.py
+python3 src/ml_exploration.py
 ```
 
 On Windows:
