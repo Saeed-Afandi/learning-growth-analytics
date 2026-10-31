@@ -1,0 +1,4 @@
+NASA is designing a telescope to observe stars and distant galaxies.
+A graphics engine renders 3D objects using polygons, lighting, and textures.
+Doctors studied symptoms, treatment outcomes, and patient recovery.
+The circuit uses a transistor, resistor, and voltage regulator.
